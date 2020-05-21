@@ -8,3 +8,4 @@
 4. 계층적 군집분석
 5. 자기조직화지도(Self-organizing maps, SOM)
 6. 웹 크롤링
+7. 텍스트마이닝: TF-IDF, LSA
