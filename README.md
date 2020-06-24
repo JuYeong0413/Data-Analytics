@@ -9,4 +9,5 @@
 5. 자기조직화지도(Self-organizing maps, SOM)  
 6. 웹 크롤링  
 7. 텍스트마이닝: TF-IDF, LSA  
-8. 토픽모델링(LDA)
+8. 토픽모델링(LDA)  
+9. 사회연결망분석(SNA)  
